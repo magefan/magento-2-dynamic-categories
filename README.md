@@ -16,42 +16,42 @@
 Magento 2 Automatic Category extension allows you to add products to categories automatically. However, in order for those products to be added to the chosen categories you need to set conditions based on product attributes that would define what products to add. 
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-dynamic-category-rule-conditions_2.webp">
+  <img width="800" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-dynamic-category-rule-conditions_2.webp">
 </p>
 
 ### Old Products Removal
 If there already is a category you want to update and add products based on Dynamic Category Rule you can do it enabling the “Remove Other Products from Category” Option. No need for you to manually delete all products since Magento 2 Automatic Category module covers that. Once you enable the removing option while creating the dynamic category rule, all old products will be automatically removed
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-remove-old-products.webp">
+  <img width="800" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-remove-old-products.webp">
 </p>
 
 ### Automatic Rules Applying
 All you need to do to be free from manual adding products to categories is to create the dynamic category rule and save it. The extension works by the cron job so that the rule you create will be automatically applied after some time and updated regularly. However, you can press the “Apply Rules” button to add products to the category immediately.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-apply-dynamic-category-rules_3.webp">
+  <img width="800" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-apply-dynamic-category-rules_3.webp">
 </p>
 
 ### Dynamic Category Product Preview
 In order to make sure only those products you want will be added to the corresponding category Magento 2 Automatic Category extension offers you to preview products that will be generated according to the conditions. It’s very convenient and allows you to make sure you don’t miss any product or change the conditions if needed before generating products.
 
 <p align="center">
-  <img width="700" height="400" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-dynamic-category-rule-preview_2.webp">
+  <img width="800" height="400" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-dynamic-category-rule-preview_2.webp">
 </p>
 
 ### Dynamic Product Attributes
 Magento 2 Dynamic Category extension generates the dynamic category product attributes for every single product on your website regardless if it is added to the dynamic category or not. Availability of such attributes allows you to use it for different purposes, like cart price rules, sorting or catalog price rules, etc.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-dynamic-category-rules-attributes_1.webp">
+  <img width="800" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-dynamic-category-rules-attributes_1.webp">
 </p>
 
 ### Catalog Price Rules
 Sales is something people are driven by. Creating sale categories is easier with Magento 2 Dynamic Categories extension since it allows you to add products to the Sale category based on Is-on-Sale product attribute. Besides you can use the Cart Price Rules to generate the sale products.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-catalog-price-rules.webp">
+  <img width="800" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-catalog-price-rules.webp">
 </p>
 
 ## Documentation
@@ -71,7 +71,7 @@ Sales is something people are driven by. Creating sale categories is easier with
 [This short video](https://www.youtube.com/watch?v=NqR1lx0r2iQ) answers your questions, teaches you how to create the dynamic category rule and shows how products actually are generated to the automatic categories.
 
 ## Other [Magento 2 Extensions](https://magefan.com/magento2-extensions) by Magefan
-  * [magento 2 Blog extension](https://magefan.com/magento2-blog-extension)
+  * [magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Blog Extra Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Multi Blog Extension](https://magefan.com/magento-2-multi-blog-extension)
