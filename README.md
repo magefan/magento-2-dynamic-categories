@@ -71,7 +71,7 @@ Sales is something people are driven by. Creating sale categories is easier with
 [This short video](https://www.youtube.com/watch?v=NqR1lx0r2iQ) answers your questions, teaches you how to create the dynamic category rule and shows how products actually are generated to the automatic categories.
 
 ## Other [Magento 2 Extensions](https://magefan.com/magento2-extensions) by Magefan
-  * [magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
+  * [Magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Blog Extra Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Multi Blog Extension](https://magefan.com/magento-2-multi-blog-extension)
