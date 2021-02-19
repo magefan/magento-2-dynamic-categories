@@ -3,6 +3,9 @@
 
 [Automatic Category](https://magefan.com/magento-2-dynamic-categories) is the Magento 2 extension that allows you to add products to categories dynamically based on the dynamic category rules. You don’t need to go through that time-consuming and tiresome process of assigning products to categories manually. Just create the dynamic category rule, apply it and forget about how much time it took you to add products to categories before. 
 
+
+<a href="https://magefan.com/magento-2-dynamic-categories"><img width="300" height="60" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/DOWNLOAD_NOW.webp"></a>
+
 ## Benefits
 
 * Automized Adding Products to Categories 
