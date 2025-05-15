@@ -5,7 +5,7 @@
 
 [Magento 2 Dynamic Categories](https://magefan.com/magento-2-dynamic-categories) is the extension that allows you to add products to categories dynamically based on the dynamic category rules. You don’t need to go through that time-consuming and tiresome process of assigning products to categories manually. Just create the dynamic category rule, apply it and forget about how much time it took you to add products to categories before. 
 
-Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 
 <img align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
 
