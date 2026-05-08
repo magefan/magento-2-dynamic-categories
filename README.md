@@ -3,28 +3,46 @@
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/95b2e48d576a3795c0fcb350dff3d7bb/i/c/icon-dynamic-category-1.webp">
 
-[Magento 2 Dynamic Categories](https://magefan.com/magento-2-dynamic-categories) is the extension that allows you to add products to categories dynamically based on the dynamic category rules. You don’t need to go through that time-consuming and tiresome process of assigning products to categories manually. Just create the dynamic category rule, apply it and forget about how much time it took you to add products to categories before. 
+[Magento 2 Dynamic Categories](https://magefan.com/magento-2-dynamic-categories) is the extension that allows you to add products to categories dynamically based on the dynamic category rules. 
+
+It allows you to define conditions using product attributes such as price, brand, category, stock status, visibility, or custom attributes based on which the extenwion will matching products in the corresponding categories.
+
+This makes it easier to maintain large product catalogs, reduces manual work, and ensure category pages are always relevant and up-to-date.
+
+> **Note:** Best for medium to enterprise stores that want to automate category management using flexible rules instead of manual assignment.
 
 Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 
-<img align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+<a href="https://magefan.com/blog/join-our-donations"><img align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg"></a>
 
 <a href="https://magefan.com/magento-2-dynamic-categories"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a>
 
-## Useful Links
-  * [User Guide](https://magefan.com/magento-2-dynamic-categories/documentation)
-  * [Change Log](https://magefan.com/magento-2-dynamic-categories/change-log)
-  * [FAQs](https://magefan.com/magento-2-dynamic-categories#pattr-faq)
+---
+TL;DR:
+Magefan Dynamic Categories for Magento automatically creates and updates product categories based on multiple rules and conditions. It allows you assign products to categories dynamically using attributes, stock status, price, or custom attribute logic to keep category pages always relevant and up to date.
 
-## 🇺🇦 Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
-    
-## Benefits
+## Why Do You Need Magento 2 Dynamic Categories Extension?
+Managing categories manually in Magento might work for small catalogs. However, as your store grows, it quickly becomes inefficient and time-consuming.
 
-* Automized Adding Products to Categories 
-* Better Website Navigation
-* Improved Customer Engagement and Navigation
+This usually results in:
+* Tedious manual work, assigning products to categories one by one.
+* Outdated categories, as it may be difficult to update in time.
+* Human errors that lead to misplaced or missing products.
 
-## Features
+The Magefan Dynamic Categories for Magento resolves these issues by automating the product assignment process. Instead of constantly updating categories manually, products are automatically added or removed based on specific rules and conditions. 
+
+This keeps your categories accurate, improves navigation, and allows you to create dynamic lists like “On Sale” or “New Arrivals” without having to monitor them manually.
+
+## Features highlights
+
+* Add or remove products from categories based on specific conditions.
+* Create flexible rules using product and dynamic attributes 
+* Build categories by pattern
+* Create the “Shop by Brand” page
+* Create “Best Sellers”, “New “, “On Sale”, and other dynamic categories
+* Preview products that fall under the defined conditions
+
+## All Features of the Automatic Categories in Magento
 ### Product Generating Conditions
 
 Magento 2 Dynamic Category extension allows you to add products to categories automatically. However, in order for those products to be added to the chosen categories you need to set conditions based on product attributes that would define what products to add. 
@@ -59,6 +77,23 @@ Magento 2 Dynamic Category extension generates the dynamic category product attr
 
 ### Catalog Price Rules
 Sales is something people are driven by. Creating sale categories is easier with Magento 2 Dynamic Categories extension since it allows you to add products to the Sale category based on the Is-on-Sale product attribute. Besides you can use the Cart Price Rules to generate the sale products.
+
+## Frequently Asked Questions about Dynamic Categories in Magento
+
+### What are dynamic categories in Magento 2?
+Dynamic categories are categories where products are added automatically based on rules and conditions, instead of being added manually.
+
+### How do dynamic attributes work?
+Dynamic product attributes are part of the Dynamic Category extension that allow you to create more flexible conditions. Their values are filled out and updated automatically based on your catalog data, so you can simply use them in your conditions.
+
+The extension comes with the following dynamic attributes: Is On Sale, Is New, Reviews count, Reviews score, and Best Sellers (QTY) Per Week/Month/Three Months/Year.
+
+### How to add more attributes to conditions?
+To add more attributes to conditions, go to Stores > Attributes > Product, open the necessary attribute, navigate to the Storefront Properties tab, and select Yes in the Use for Promo Rule Conditions option.
+
+### Are products added to categories instantly?
+The products are added to categories automatically by cron. Thus, once the cron runs, the categories will be correspondingly updated. To update categories instantly, you can press the Apply Rules button in Catalog > Dynamic Category > Rules.
+
 
 ## Demo
 
@@ -120,11 +155,11 @@ https://magefan.com/contact
 ## License
 The code is licensed under [EULA](https://magefan.com/end-user-license-agreement).
 
-## [Magento Extensions](https://magefan.com/magento-2-extensions) by Magefan
+## [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
 
 ### Magento 2 SEO Extensions
 
-* [Magento SEO](https://magefan.com/magento-2-seo-extension)
+* [Magento SEO Extension](https://magefan.com/magento-2-seo-extension)
 * [Magento 2 Rich Snippets](https://magefan.com/magento-2-rich-snippets)
 * [Magento 2 HTML Sitemap](https://magefan.com/magento-2-html-sitemap-extension)
 * [Magento 2 XML Sitemap](https://magefan.com/magento-2-xml-sitemap-extension)
